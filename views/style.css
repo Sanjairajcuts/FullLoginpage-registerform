@@ -1,0 +1,31 @@
+h1
+{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+}
+form
+{
+    margin-left: 450px;
+    border: 1px solid gray;
+    width: 550px;
+    padding: 25px;
+}
+input
+{
+    width: 400px;
+    height: 34px;
+    border-radius: 6px;
+    border-color: lightblue;
+    padding: 10px;
+}
+#submitdata
+{
+    background-color: aquamarine;
+    color: yellow;
+}
+.body
+{
+    /* background: url('https://www.herofincorp.com/public/admin_assets/upload/blog/64b91a06ab1c8_food%20business%20ideas.webp'); */
+    background-image: url("     https://www.herofincorp.com/public/admin_assets/upload/blog/64b91a06ab1c8_food%20business%20ideas.webp");
+}
